@@ -1,4 +1,1 @@
-this is a git test yeah
-
-test reset
-after reset
+this is a git test
